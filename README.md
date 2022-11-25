@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hi! I'm Ayaan </h1>
 
-<picture>
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=AYaaN01&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
