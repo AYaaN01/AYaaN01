@@ -2,7 +2,18 @@
 ###
 
 <h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hi! I'm Ayaan </h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYaaN01)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!--
 **AYaaN01/AYaaN01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
