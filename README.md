@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hi! I'm Ayaan </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AYaaN01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <picture align="center">
 <source 
