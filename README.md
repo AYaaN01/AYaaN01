@@ -3,7 +3,6 @@
 
 <h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hi! I'm Ayaan </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <picture align="center">
 <source 
@@ -31,9 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AYaaN01&theme=dark)](https://git.io/streak-stats)
-
+________________________________________________________________________________________________________________________________
 ### 
 
 ![Ayaan's github activity graph](https://github-stats-graph.herokuapp.com/graph?username=AYaaN01&bg_color=000000&color=8840fc&line=e63061&point=9afff1&hide_border=true)
